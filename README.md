@@ -21,7 +21,6 @@ nudges Persian messages back to English, and posts a daily progress summary ever
 ## Table of contents
 
 - [What it does](#-what-it-does)
-- [See it in action](#-see-it-in-action)
 - [How it works](#-how-it-works)
 - [Privacy by design](#-privacy-by-design)
 - [Getting started](#-getting-started)
@@ -43,10 +42,6 @@ nudges Persian messages back to English, and posts a daily progress summary ever
 | **Nightly summary** | At 23:59 it posts a leaderboard: messages checked, corrections made, and Persian messages per member. |
 | **Privacy filter** | Emails, links, phone numbers, @usernames, IBANs and phrases like "my password is..." are skipped and never sent to the AI. |
 | **Built to survive a busy group** | Async I/O, a concurrency limit, automatic retries with backoff, and a daily message quota. |
-
-## 💬 See it in action
-
-> Add your own screenshots to `docs/` and they will show up here.
 
 <div align="center">
 
