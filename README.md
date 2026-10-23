@@ -43,13 +43,6 @@ nudges Persian messages back to English, and posts a daily progress summary ever
 | **Privacy filter** | Emails, links, phone numbers, @usernames, IBANs and phrases like "my password is..." are skipped and never sent to the AI. |
 | **Built to survive a busy group** | Async I/O, a concurrency limit, automatic retries with backoff, and a daily message quota. |
 
-<div align="center">
-
-| Correction | Persian → English | Daily summary |
-|:---:|:---:|:---:|
-| <img src="docs/screenshot-correction.png" alt="Correction example" width="260"/> | <img src="docs/screenshot-translation.png" alt="Translation example" width="260"/> | <img src="docs/screenshot-summary.png" alt="Daily summary example" width="260"/> |
-
-</div>
 
 **Example: a correction**
 
